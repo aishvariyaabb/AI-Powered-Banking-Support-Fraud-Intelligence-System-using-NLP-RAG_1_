@@ -1,4 +1,6 @@
 # Banking AI Support System — Dataset Documentation
+<img width="1902" height="862" alt="image" src="https://github.com/user-attachments/assets/70e51e6e-7def-41c8-b55b-efb80c1f4e52" />
+<img width="1882" height="862" alt="image" src="https://github.com/user-attachments/assets/caf5d512-db19-441a-861c-a924b03a0083" />
 
 ## Overview
 Synthetic dataset generated for a RAG-based banking customer support AI system.
